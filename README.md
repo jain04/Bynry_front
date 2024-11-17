@@ -17,3 +17,9 @@ This project includes the following features:
 - **TailwindCSS**: Utility-first CSS framework for rapid UI development.
 - **Node.js & Express**: Backend framework for creating RESTful APIs.
 - **MongoDB Atlas**: Cloud database for storing user profiles.
+
+## 🖼️ Screenshot
+
+Here is a screenshot of the application:
+
+![Bynry Project Screenshot](./assets/Screenshot_17-11-2024.jpeg)
