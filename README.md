@@ -22,4 +22,4 @@ This project includes the following features:
 
 Here is a screenshot of the application:
 
-![Bynry Project Screenshot](.src/assets/Screenshot_17-11-2024.jpeg)
+![Bynry Project Screenshot](./src/assets/Screenshot_17-11-2024.jpeg)
